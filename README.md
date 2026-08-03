@@ -10,7 +10,7 @@ A lightweight, responsive web application built using **HTML5**, **CSS3**, and *
 * **Score Tracking:** Real-time HUD showing current score and progress (e.g., Question 1/3).
 * **Local High Scores:** Saves your top scores locally in your browser using `localStorage`.
 * **Responsive Layout:** Clean CSS flexbox styling designed to look great on desktop and mobile screens.
-
+*live:https://abhishekshivaraj-boop.github.io/Quiz_App/index.html
 ---
 
 ## 🛠️ Built With
